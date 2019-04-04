@@ -1,10 +1,11 @@
 {
-  "name": "components",
+  "name": "function-based-components",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "faker": "4.1.0",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-scripts": "2.1.8"
